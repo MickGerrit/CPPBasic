@@ -1,0 +1,8 @@
+﻿  Book.cpp
+  Library.cpp
+D:\GameDevelopment\HKU\C++Herkansing\Opdracht5\Opdracht5\Opdracht5\Opdracht5\Library.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+D:\GameDevelopment\HKU\C++Herkansing\Opdracht5\Opdracht5\Opdracht5\Opdracht5\Library.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+D:\GameDevelopment\HKU\C++Herkansing\Opdracht5\Opdracht5\Opdracht5\Opdracht5\Library.cpp(53,21): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Generating Code...
+  Opdracht5.vcxproj -> D:\GameDevelopment\HKU\C++Herkansing\Opdracht5\Opdracht5\Opdracht5\Debug\Opdracht5.exe

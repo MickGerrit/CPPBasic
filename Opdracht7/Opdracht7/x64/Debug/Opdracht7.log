@@ -1,0 +1,6 @@
+﻿  Combine.cpp
+  Main.cpp
+  Revert.cpp
+D:\GameDevelopment\HKU\C++Herkansing\Opdracht7\Opdracht7\Revert.cpp(19,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Generating Code...
+  Opdracht7.vcxproj -> D:\GameDevelopment\HKU\C++Herkansing\Opdracht7\x64\Debug\Opdracht7.exe

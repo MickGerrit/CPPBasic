@@ -1,0 +1,11 @@
+﻿  CoffeeMachine.cpp
+D:\GameDevelopment\HKU\C++Herkansing\Opdracht4\Opdracht4\Opdracht4\Opdracht4\CoffeeMachine.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+D:\GameDevelopment\HKU\C++Herkansing\Opdracht4\Opdracht4\Opdracht4\Opdracht4\CoffeeMachine.cpp(26,36): warning C4244: '-=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\GameDevelopment\HKU\C++Herkansing\Opdracht4\Opdracht4\Opdracht4\Opdracht4\CoffeeMachine.cpp(58,20): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Generating Code...
+  Opdracht4.vcxproj -> D:\GameDevelopment\HKU\C++Herkansing\Opdracht4\Opdracht4\Opdracht4\Debug\Opdracht4.exe

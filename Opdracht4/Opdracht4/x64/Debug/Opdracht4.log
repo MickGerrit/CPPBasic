@@ -1,0 +1,13 @@
+﻿  CoffeeMachine.cpp
+D:\GameDevelopment\HKU\C++Herkansing\Opdracht4\Opdracht4\CoffeeMachine.cpp(26,36): warning C4244: '-=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  Coin.cpp
+  FiftyCentCoin.cpp
+  OneEuroCoin.cpp
+  Main.cpp
+  CoffeeCoin.cpp
+  Generating Code...
+  Opdracht4.vcxproj -> D:\GameDevelopment\HKU\C++Herkansing\Opdracht4\x64\Debug\Opdracht4.exe
